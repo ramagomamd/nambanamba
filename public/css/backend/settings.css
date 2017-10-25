@@ -1,0 +1,129 @@
+.panel-actions .music-trash {
+    cursor: pointer;
+}
+
+.panel-actions .music-trash:hover {
+    color: #e94542;
+}
+
+.panel hr {
+    margin-bottom: 10px;
+}
+
+.panel {
+    padding-bottom: 15px;
+}
+
+.sort-icons {
+    font-size: 21px;
+    color: #ccc;
+    position: relative;
+    cursor: pointer;
+}
+
+.sort-icons:hover {
+    color: #37474F;
+}
+
+.music-sort-desc {
+    margin-right: 10px;
+}
+
+.music-sort-asc {
+    top: 10px;
+}
+
+.page-title {
+    margin-bottom: 0;
+}
+
+.panel-title code {
+    border-radius: 30px;
+    padding: 5px 10px;
+    font-size: 11px;
+    border: 0;
+    position: relative;
+    top: -2px;
+}
+
+.new-setting {
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.new-setting .panel-title {
+    margin: 0 auto;
+    display: inline-block;
+    color: #999fac;
+    font-weight: lighter;
+    font-size: 13px;
+    background: #fff;
+    width: auto;
+    height: auto;
+    position: relative;
+    padding-right: 15px;
+}
+
+.new-setting hr {
+    margin-bottom: 0;
+    position: absolute;
+    top: 7px;
+    width: 96%;
+    margin-left: 2%;
+}
+
+.new-setting .panel-title i {
+    position: relative;
+    top: 2px;
+}
+
+.new-settings-options {
+    display: none;
+    padding-bottom: 10px;
+}
+
+.new-settings-options label {
+    margin-top: 13px;
+}
+
+.new-settings-options .alert {
+    margin-bottom: 0;
+}
+
+#toggle_options {
+    clear: both;
+    float: right;
+    font-size: 12px;
+    position: relative;
+    margin-top: 15px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    z-index: 9;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.new-setting-btn {
+    margin-right: 15px;
+    position: relative;
+    margin-bottom: 0;
+    top: 5px;
+}
+
+.new-setting-btn i {
+    position: relative;
+    top: 2px;
+}
+
+textarea {
+    min-height: 120px;
+}
+textarea.hidden{
+    display:none;
+}
